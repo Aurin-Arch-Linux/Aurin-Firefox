@@ -20,7 +20,7 @@ Installation of browser Aurin extension. If you use Chrome, then you can simply 
 
 ## Firefox:
 
-<a href="https://addons.mozilla.org/en-US/firefox/addon/aurin/"><img src="https://raw.githubusercontent.com/Suleman-Elahi/Aurin/main/Aurin_Extension/icons/get-the-addon.png"></a>
+<a href="https://addons.mozilla.org/en-US/firefox/addon/aurin/"><img src="https://raw.githubusercontent.com/Aurin-Arch-Linix/Aurin/main/Aurin_Extension/icons/get-the-addon.png"></a>
 
 ### Manual Install:
 
